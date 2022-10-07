@@ -1,7 +1,7 @@
 <img align="center" alt="Utah" width="1050" src="https://media.tenor.com/j21gA7hGnwUAAAAC/ado-uta.gif">
 
 <img align="center" alt="Zoro" width="1050" src="https://i.pinimg.com/originals/ae/8b/7d/ae8b7d78fdf94f7d61c6db2cec4f9986.gif">
-<h2 align="center">Hi 👋, I'm Jeremy Flores</h1>
+<h2 align="center">Hi 👋, I'm Jeremy Flores</h2>
 <h3 align="center">A BS Computer Science Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremyjulesflores&label=Profile%20views&color=0e75b6&style=flat" alt="jeremyjulesflores" /> </p>
 
