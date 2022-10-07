@@ -1,5 +1,16 @@
+<table><tr><td valign="top" width="50%">
 <img align="center" alt="Utah" width="1050" src="https://media.tenor.com/j21gA7hGnwUAAAAC/ado-uta.gif">
+</td><td valign="top" width="50%">
 <img align="center" alt="Zoro" width="1050" src="https://i.pinimg.com/originals/ae/8b/7d/ae8b7d78fdf94f7d61c6db2cec4f9986.gif">
+</td><td valign="top" width="50%">
+<img align="center" alt ="nami" width ="1050" src ="https://giffiles.alphacoders.com/491/49180.gif">
+</td><td valign="top" width="50%">
+<img align="center" alt ="robin" width ="1050" src ="https://i.pinimg.com/originals/16/45/5a/16455a3cc55dcd63a55a9a624a4b870d.gif">
+</td><td valign="top" width="50%">
+<img align="center" alt ="luffy" width ="1050" src ="https://i.gifer.com/origin/e2/e2ffc3e709d4d3c376f6d4155bd0777b.gif">
+</td></tr></table>  
+
+
 
 <div align="center">Hi, I'm Jeremy Flores</div>  
 <div align="center">Connect with me</div>  
